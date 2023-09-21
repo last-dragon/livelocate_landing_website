@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	<a href="https:// Goel001.github.io/"> Goel001.github.io</a> - v2.0
+	
 	<p align="center">
 		<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
 		<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
@@ -19,18 +19,13 @@
 	<a href="https://github.com/ Goel001/ Goel001.github.io">
 		<img src="src/screenshots/icon.png" alt="Logo" width="80" height="80"/>
 	</a>
-	<h3 align="center">Sam Yakoubian ( Goel001)'s Personal Portfolio</h3>
+	<h3 align="center">LiveLocate</h3>
 	<p align="center">
-		This is the source code for my Personal Portfolio.
+		
 		<br/>
 		<a href="https://github.com/ Goel001/ Goel001.github.io"><strong>Explore the docs »</strong></a>
 		<br/>
 		<br/>
-		<a href="https:// goel001.github.io/">View Demo</a>
-		·
-		<a href="https://github.com/ Goel001/ Goel001.github.io/issues/new?assignees= Goel001&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">Report Bug</a>
-		·
-		<a href="https://github.com/ Goel001/ Goel001.github.io/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
 	</p>
 	<p>
 		<img src="https://img.shields.io/github/contributors/ Goel001/ Goel001.github.io.svg?styles/default/yes.svg" alt="Contributors"/> • 
@@ -574,7 +569,7 @@ If you have any questions, comments, or concerns, feel free to contact me below.
   	</a>
 </p>
 
-This project was created for educational purposes and for personal use. Feel free to take inspiration.
+This project was created for educational purposes and for  use. Feel free to take inspiration.
 
 If you like my content or find this code useful, give it a ⭐.
 

@@ -19,18 +19,8 @@
 	<a href="https://github.com/ Goel001/ Goel001.github.io">
 		<img src="screenshots/icon.png" alt="Logo" width="80" height="80"/>
 	</a>
-	<h3 align="center">Sam Yakoubian ( Goel001)'s Personal Portfolio</h3>
+	<h3 align="center">LiveLocate</h3>
 	<p align="center">
-		This is the source code for my Personal Portfolio.
-		<br/>
-		<a href="https://github.com/ Goel001/ Goel001.github.io"><strong>Explore the docs »</strong></a>
-		<br/>
-		<br/>
-		<a href="https:// goel001.github.io/">View Demo</a>
-		·
-		<a href="https://github.com/ Goel001/ Goel001.github.io/issues/new?assignees= Goel001&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">Report Bug</a>
-		·
-		<a href="https://github.com/ Goel001/ Goel001.github.io/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
 	</p>
 	<p>
 		<img src="https://img.shields.io/github/contributors/ Goel001/ Goel001.github.io.svg?styles/default/yes.svg" alt="Contributors"/> • 
@@ -40,17 +30,14 @@
 		<img alt="Repo Size" src="https://img.shields.io/github/repo-size/ Goel001/ Goel001.github.io"/>
 	</p>
 	<p>
-		<img alt="Github Deployment Status" src="https://github.com/ Goel001/ Goel001.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages&dummy=unused"/> •
-		<img src="https://github.com/ Goel001/ Goel001.github.io/actions/workflows/publish-docker.yml/badge.svg?dummy=unused" alt="Docker Image Status"/>
+		•
+		
 	</p>
 </div>
 
 <br/>
 
 <p align="center">
-  <a href="https:// Goel001.github.io/">
-    <img src="screenshots/screenshot.gif" alt="landing page"/>
-  </a>
 </p>
 
 
