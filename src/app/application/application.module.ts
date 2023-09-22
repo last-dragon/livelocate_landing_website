@@ -12,7 +12,7 @@ import {PortfolioComponent} from "../portfolio/portfolio.component";
 // import {TrainingComponent} from "../training/training.component";
 // import {AchievementComponent} from "../achievement/achievement.component";
 import {ContactComponent} from "../contact/contact.component";
-import {SocialComponent} from "../social/social.component";
+// import {SocialComponent} from "../social/social.component";
 import {FooterComponent} from "../footer/footer.component";
 // import {WaifuComponent} from "../waifu/waifu.component";
 import {RouterModule, Routes} from "@angular/router";
@@ -28,7 +28,6 @@ const routes: Routes = [{ path: '', component: ApplicationComponent }];
 		QuoteComponent,
 		PortfolioComponent,
 		ContactComponent,
-		SocialComponent,
 		FooterComponent
 	],
 	imports: [
